@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Downloader Bulk 📥
+# 🎥 YouTube Video Bulk Downloader 📥
 
 Welcome to **YouTube Video Downloader Bulk**! 🚀 This is your go-to tool for downloading multiple YouTube videos or music tracks at once. No more tedious one-by-one downloads—just copy & paste your links, and let the magic happen! ✨
 
